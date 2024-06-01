@@ -29,3 +29,12 @@ body, navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-
 .nav-item{
     color: blue;
 }
+
+.securitypolicy{
+    color: mediumpurple;
+}
+
+.loginform {
+    color: mediumpurple;
+
+}

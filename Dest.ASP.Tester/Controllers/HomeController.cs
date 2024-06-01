@@ -19,7 +19,11 @@ namespace Dest.ASP.Tester.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Security() { 
+            return View();
+        }
+
+        public IActionResult LogInORSignUp()
         {
             return View();
         }
